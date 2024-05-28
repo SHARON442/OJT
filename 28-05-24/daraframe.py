@@ -13,3 +13,9 @@ df=pd.DataFrame(data)
 print(df)
 print(df[['Name','place']])
 print(df['Name'])
+#add a new column into the dataframe
+df['stipend']= [1500,500,5000]
+#remove a column    
+df = df.drop(columns=['age'])
+print(df.describe())
+
