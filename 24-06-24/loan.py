@@ -27,5 +27,7 @@ print(f"accuracy:{accuracy:.2f}")
 print("classification_report:")
 print(classification_report(y_test,y_pred))
 
-# print("confusion Matrix:")
-# print(confusion Matrix(y_test,y_pred))
+
+conf_matrix=confusion_matrix(y_test,y_pred)
+print(conf_matrix)
+
