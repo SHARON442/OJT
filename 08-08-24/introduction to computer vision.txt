@@ -1,0 +1,20 @@
+*computer vision
+>field of ai. automate all taks which done by human vision.
+>key areas of computer vision = image processing,image analysis
+>applications = autonomous vehicles,agriculture,robotics,medical imaging.
+
+>image formation in computer vision refers the process of capturing & representing visual info in digital images.
+stages of image formation = image processiong,digital image, sensor,optical
+>image representation refers to the various ways visual info can be encoded and stored for processing and analysis in computer vision systems.
+types of image representation = raster images,vector,binary,greyscale,color images
+>common image formats = JPEG,PNG,BMP
+
+>image metadata refered as addition information embedded within the image file, that describes various attributes & details about the image.
+types of metadata = EXTF(exchangable image file format eg:date,time,location) IPTC,XMP
+
+>Image preprocessing techniques
+common techniques : resizing,normalization,mean substraction,histogram equalization,sharpening,edge detection,filtering and smoothing
+
+
+
+
